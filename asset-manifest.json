@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/crudtest/static/css/main.5161df18.chunk.css",
-    "main.js": "/crudtest/static/js/main.79890234.chunk.js",
-    "main.js.map": "/crudtest/static/js/main.79890234.chunk.js.map",
-    "runtime-main.js": "/crudtest/static/js/runtime-main.3a78489d.js",
-    "runtime-main.js.map": "/crudtest/static/js/runtime-main.3a78489d.js.map",
-    "static/js/2.a5fd461d.chunk.js": "/crudtest/static/js/2.a5fd461d.chunk.js",
-    "static/js/2.a5fd461d.chunk.js.map": "/crudtest/static/js/2.a5fd461d.chunk.js.map",
-    "static/js/3.be452e0a.chunk.js": "/crudtest/static/js/3.be452e0a.chunk.js",
-    "static/js/3.be452e0a.chunk.js.map": "/crudtest/static/js/3.be452e0a.chunk.js.map",
-    "index.html": "/crudtest/index.html",
-    "static/css/main.5161df18.chunk.css.map": "/crudtest/static/css/main.5161df18.chunk.css.map",
-    "static/js/2.a5fd461d.chunk.js.LICENSE.txt": "/crudtest/static/js/2.a5fd461d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/crudtest/static/media/logo.6ce24c58.svg"
+    "main.css": "/Redux-crud/static/css/main.5161df18.chunk.css",
+    "main.js": "/Redux-crud/static/js/main.79890234.chunk.js",
+    "main.js.map": "/Redux-crud/static/js/main.79890234.chunk.js.map",
+    "runtime-main.js": "/Redux-crud/static/js/runtime-main.379cadf9.js",
+    "runtime-main.js.map": "/Redux-crud/static/js/runtime-main.379cadf9.js.map",
+    "static/js/2.a5fd461d.chunk.js": "/Redux-crud/static/js/2.a5fd461d.chunk.js",
+    "static/js/2.a5fd461d.chunk.js.map": "/Redux-crud/static/js/2.a5fd461d.chunk.js.map",
+    "static/js/3.be452e0a.chunk.js": "/Redux-crud/static/js/3.be452e0a.chunk.js",
+    "static/js/3.be452e0a.chunk.js.map": "/Redux-crud/static/js/3.be452e0a.chunk.js.map",
+    "index.html": "/Redux-crud/index.html",
+    "static/css/main.5161df18.chunk.css.map": "/Redux-crud/static/css/main.5161df18.chunk.css.map",
+    "static/js/2.a5fd461d.chunk.js.LICENSE.txt": "/Redux-crud/static/js/2.a5fd461d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Redux-crud/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3a78489d.js",
+    "static/js/runtime-main.379cadf9.js",
     "static/js/2.a5fd461d.chunk.js",
     "static/css/main.5161df18.chunk.css",
     "static/js/main.79890234.chunk.js"
